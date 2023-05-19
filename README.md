@@ -1,1 +1,3 @@
-# syper-test-git
+# syper-test-gitcd
+
+мой проект
